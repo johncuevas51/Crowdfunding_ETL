@@ -1,6 +1,8 @@
 # Crowdfunding_ETL
 Project 2
 
+Note: My partner Kudirat Abdulsalam collaborated with me on this projected. She had different code, with same output/answers.
+
 
 Create the Category and Subcategory DataFrames
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
